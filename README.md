@@ -33,7 +33,9 @@ Some features of this project
 ## How to install
 It is recommended for reference only. To install this project, do the following steps:
 1. Prepare Platform of 'ARTIK053', Three color LED, Resist, Infrared sensor.
-2. Add the code ''
+2. Add from 'ARTIK053' to the code 'IoTrash_ARTIK-master.zip'.
+3. Java development tool(Eclipse, IntelliJ..) execute
+4. Import the code ''
  
 ## Preview
 * Introduction video  : https://youtu.be/JGBrlb_sIm4
