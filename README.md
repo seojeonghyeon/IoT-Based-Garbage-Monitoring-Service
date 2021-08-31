@@ -36,7 +36,9 @@ It is recommended for reference only. To install this project, do the following 
 2. Add from 'ARTIK053' to the code 'IoTrash_ARTIK-master.zip'.
 3. Java development tool(Eclipse, IntelliJ..) execute
 4. Import the code 'IoTrash_Web.zip'.
-5. Execute the code or Export a 'war' file.
+5. Execute the code  or  Export a 'war' file and excute tomcat8 on server.
+6. Import the code 'Application-master.zip' to Android development tool(Android Studio..).
+7. excute the application.
  
 ## Preview
 * Introduction video  : https://youtu.be/JGBrlb_sIm4
