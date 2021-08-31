@@ -1,3 +1,3 @@
 # IoTrash(IoT-Based-Garbage-Monitoring-Service)
-
-
+  The janitor who manages trash bins in many buildings has the difficulty of going around and checking the bins every time. So we suggest a solution of trash bins monitoring system. This system Contributes easy manages for janitor.
+  We used some platforms that 'Spring framework for server', 'ARTIK 053 for hardware', 'Android Studio for smartphone'. 'Spring Framework' is a server development tools for Java. This project 
